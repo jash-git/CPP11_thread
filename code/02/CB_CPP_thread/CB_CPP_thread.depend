@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603161585 source:c:\users\jashliao\desktop\cb_cpp_thread\main.cpp
+	<iostream>
+	<thread>
+	<queue>
+

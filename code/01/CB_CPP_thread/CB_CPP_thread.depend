@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603160822 source:c:\users\jashliao\desktop\cb_cpp_thread\main.cpp
+	<iostream>
+	<thread>
+
